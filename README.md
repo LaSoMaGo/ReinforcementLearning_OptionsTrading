@@ -149,8 +149,6 @@ Where:
 * ( R_f ) = risk-free rate
 * ( \sigma_p ) = return volatility
 
-Below is a **concise, GitHub-style README section**, rewritten in **clear technical English**, focused on **Results, Discussion, and Conclusions**.
-You can paste this directly into your `README.md`.
 
 ---
 
