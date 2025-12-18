@@ -237,7 +237,6 @@ Models performed **better on options data than stock data**, likely because opti
 * PPO learned a **prudent trading strategy**, maintaining stable returns and avoiding excessive speculation
 * Results suggest that **policy-based methods are better suited** for dynamic and high-risk financial environments like options trading
 
-Here’s a **GitHub-style, friendly call-to-action** you can place right after that section in your README:
 
 ---
 
