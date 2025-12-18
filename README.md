@@ -20,11 +20,7 @@ The main objective is to identify and evaluate the most effective RL algorithm f
 * Evaluate performance using **Sharpe Ratio** and **Return on Investment (ROI)**
 * Analyze ethical implications of AI-driven trading systems
 
-## Methodology
-
-Here is a **clean, concise, GitHub-style README section**, formatted in **Markdown**, with technical clarity and without academic clutter. You can paste this **directly into your `README.md`**.
-
----
+----
 
 ## 🧠 Reinforcement Learning Environment
 
